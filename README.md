@@ -20,13 +20,13 @@ Aplikasi ini memiliki beberapa halaman utama, yaitu:
 Berikut adalah screenshot dari halaman utama aplikasi:
 
 1. **Halaman Kontak**  
-   ![Screenshot 1](/assets/images/image-1.png.png)
+   ![Screenshot 1](/assets/images/image-1.png)
 
 2. **Halaman Proyek**  
-   ![Screenshot 2](/assets/images/image-2.png.png)
+   ![Screenshot 2](/assets/images/image-2.png)
 
 3. **Halaman Profil**  
-   ![Screenshot 3](/assets/images/image-3.png.png)
+   ![Screenshot 3](/assets/images/image-3.png)
 
 ## Teknologi yang Digunakan
 
@@ -71,6 +71,6 @@ Setelah menginstal Expo CLI, ikuti langkah-langkah berikut:
 
 Untuk memulai aplikasi di perangkat Anda, jalankan perintah berikut:
 
-  ```bash
-  expo start
-  ```
+```bash
+expo start
+```
